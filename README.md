@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 <div align="center">
-  <a href="https://https://nohello.net/">
+  <a href="https://salzstange-webseite.pages.dev/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
