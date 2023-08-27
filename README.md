@@ -10,10 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PublicBot](https://github.com/SonGoku76/PublicBot)
-
-- 🔭 I’m currently working on [LogSystem](https://github.com/SonGoku76/LogSystem)
-
+- 🔭 I’m currently working on [easyJda](https://github.com/Salzstange-app/easyJda)
+  
 - 💬 Ask me about **Java, Html/Css**
 
 <h3 align="left">Connect with me:</h3>
