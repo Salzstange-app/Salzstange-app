@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [easyJda](https://github.com/Salzstange-app/easyJda)
   
-- 💬 Ask me about **Java, Html/Css**
+- 💬 Ask me about **Java, Python, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
