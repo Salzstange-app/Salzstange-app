@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salzstange</h1>
+<h1 align="center">Hi 👋, I'm Jan</h1>
 
 <div align="center">
   <a href="https://salzstange-webseite.pages.dev/">
