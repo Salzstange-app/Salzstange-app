@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [easyJda](https://github.com/Salzstange-app/easyJda)
   
-- 💬 Ask me about **Java, Python, Docker**
+- 💬 Ask me about **Java, Python, Docker, Ansible, Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
