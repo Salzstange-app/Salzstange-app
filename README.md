@@ -7,8 +7,9 @@
 
 <p align="left">
 <h3 align="left"> Skibidi Rizzler </h3>
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Zombiebattler)
-[![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](http://leonk.me/) 
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Zombiebattler)
+  [![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](http://leonk.me/) 
 
 
 
