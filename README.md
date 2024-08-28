@@ -7,8 +7,10 @@
 
 <p align="left">
 <h3 align="left"> Skibidi Rizzler </h3>
-<p align="left">
-<a href="https://github.com/Zombiebattler" target="blank"></a>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Zombiebattler)
+[![Webseite](https://img.shields.io/badge/-Website-000?style=flat-square&logo=globe&logoColor=white)](http://leonk.me/) 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
